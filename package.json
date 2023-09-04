@@ -1,0 +1,24 @@
+{
+  "name": "suke-s-ts-js-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suke0930/suke-s-TS-JS-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suke0930/suke-s-TS-JS-lib/issues"
+  },
+  "homepage": "https://github.com/suke0930/suke-s-TS-JS-lib#readme",
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.2.2"
+  }
+}
